@@ -1,0 +1,74 @@
+@charset "utf-8";
+body {
+	background-color: #FDFDFD;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	width: 1000px;
+	height: auto;
+}
+.altzemin {
+	float: left;
+	height: auto;
+	width: 400px;
+	background-color: #E5E5E5;
+	padding: 0px;
+	margin-top: 85px;
+	margin-right: 300px;
+	margin-bottom: auto;
+	margin-left: 400px;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	clip: rect(0px,0px,0px,0px);
+}
+.altzemin .baslik {
+	float: left;
+	height: 50px;
+	width: 400px;
+	background-color: #3B5998;
+}
+.altzemin .baslik .sistemgirisbaslik {
+	font-size: 30px;
+	font-weight: bolder;
+	float: left;
+	margin-left: 50px;
+	margin-right: auto;
+	margin-top: 7px;
+	margin-bottom: auto;
+	color: #FDFDFD;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: normal;
+	text-decoration: none;
+}
+.altzemin form table {
+	float: left;
+	height: auto;
+	width: auto;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 60px;
+}
+.altzemin form center table {
+	width: auto;
+}
+.altzemin form center input {
+	float: left;
+}
+.altzemin form center tr td #uyelik {
+	background-color: #01B80D;
+	float: left;
+}
+.altzemin form center table tr th {
+	font-weight: bold;
+	text-transform: capitalize;
+	font-style: normal;
+	line-height: normal;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	color: #313131;
+}
